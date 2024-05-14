@@ -13,4 +13,4 @@ Moving forward, you will have lifetime access to the course material. Kindly use
 Thank you for your understanding.
 
 <br/>All the best,
-CodePath.org Team
+<br/>CodePath.org Team
