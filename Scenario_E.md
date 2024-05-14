@@ -19,5 +19,5 @@ I understand that you would like to complete your application but do not know ho
 I hope this brings clarity to you. For questions, please email us at [admissions@codepath.org](mailto:admissions@codepath.org). We are looking forward to seeing you in class.
 
 <br/>Best regards,
-CodePath.org
-Office of Admissions
+<br/>CodePath.org
+<br/>Office of Admissions
