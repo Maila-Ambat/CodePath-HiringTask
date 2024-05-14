@@ -11,4 +11,4 @@ As this is important to you, we would like to share our [high-level software int
 I hope this helps and I wish you all the best in your future endeavors.
 
 <br/>Regards,
-CodePath.org Team
+<br/>CodePath.org Team
